@@ -12,7 +12,7 @@
 [bgm bgm=sud_bgm_adv_tension-01 volume=1 clip=\{"_startTime":369.7048016585,"_duration":71.309313301,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=1 clip=\{"_startTime":0.0,"_duration":0.1333333333,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":2.2933335781,"_duration":0.8066664219,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[narration text=――도리큔이 달의 템페스트를 대전 상대로 지명하기 조금 전 clip=\{"_startTime":0.0,"_duration":2.1333333333,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[narration text=――도리큥이 달의 템페스트를 대전 상대로 지명하기 조금 전 clip=\{"_startTime":0.0,"_duration":2.1333333333,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorcolor id=ktn color=#FFFFFF00]
 [actorcolortween id=ktn fromColor=#FFFFFF00 toColor=#FFFFFFFF clip=\{"_startTime":2.6267031953,"_duration":0.5,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actormotion id=lmn motion=mot_adv_chr_cmn_talk-007_pose clip=\{"_startTime":0.0,"_duration":0.0333333351,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
