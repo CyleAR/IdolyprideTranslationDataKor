@@ -1,5 +1,5 @@
 [backgroundgroup backgrounds=[background id=dressingroom-00-noon src=env_adv_2d_dressingroom-00-noon]]
-[backgroundlayoutgroup layouts=[backgroundlayout id=dressingroom-00-noon place=楽屋] clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[backgroundlayoutgroup layouts=[backgroundlayout id=dressingroom-00-noon place=대기실] clip=\{"_startTime":0.0,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actorgroup actors=[actor id=rio body=mdl_chr_rio-mizg-02_body face=mdl_chr_rio-base-00_face hair=mdl_chr_rio-mizg-02_hair] actors=[actor id=aoi body=mdl_chr_aoi-mizg-02_body face=mdl_chr_aoi-base-00_face hair=mdl_chr_aoi-mizg-02_hair]]
 [title title=어긋남의 디소넌스 5화 그럴 각오는 돼 있어?]
 [bgm bgm=sud_bgm_adv_tension-01 clip=\{"_startTime":0.0,"_duration":57.0419395578,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
