@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=dressingroom-01-noon src=env_adv_2d_dressingroom-01-noon] backgrounds=[background id=dressingroom-00-noon src=env_adv_2d_dressingroom-00-noon] backgrounds=[background id=tokyocorridor-00-noon src=env_adv_2d_tokyocorridor-00-noon] backgrounds=[background id=office-01-000-night src=env_adv_3d_office-01-000-evening]]
 [actorgroup actors=[actor id=kor body=mdl_chr_kor-casl-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-base-00_hair others=mdl_prp_smartphone-normal-l01_smartphone] actors=[actor id=kan body=mdl_chr_kan-casl-00_body face=mdl_chr_kan-base-00_face hair=mdl_chr_kan-base-00_hair] actors=[actor id=mhk body=mdl_chr_mhk-casl-00_body face=mdl_chr_mhk-base-00_face hair=mdl_chr_mhk-base-00_hair]]
-[title title=거짓의 REALISM ~밀착 신곡 회의!?~ 1화 복수 대작전]
+[title title=거짓된 REALISM ~밀착 신곡 회의?!~ 1화 복수 대작전]
 [bgm bgm=sud_bgm_adv_plan-01 clip=\{"_startTime":0.0,"_duration":56.2331067085,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_comical-01 clip=\{"_startTime":57.7,"_duration":57.4593708448,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_occult-01 clip=\{"_startTime":118.2666732789,"_duration":64.7611473083,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

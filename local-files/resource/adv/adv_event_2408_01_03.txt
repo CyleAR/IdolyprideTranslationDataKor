@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=dressingroom-00-noon src=env_adv_2d_dressingroom-00-noon] backgrounds=[background id=designcorridor-00-noon src=env_adv_2d_designcorridor-00-noon]]
 [actorgroup actors=[actor id=kor body=mdl_chr_kor-casl-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-base-00_hair others=mdl_prp_smartphone-normal-l01_smartphone] actors=[actor id=kan body=mdl_chr_kan-casl-00_body face=mdl_chr_kan-base-00_face hair=mdl_chr_kan-base-00_hair others=mdl_prp_smartphone-normal-l01_smartphone] actors=[actor id=mhk body=mdl_chr_mhk-casl-00_body face=mdl_chr_mhk-base-00_face hair=mdl_chr_mhk-base-00_hair others=mdl_prp_smartphone-normal-l01_smartphone]]
-[title title=거짓의 REALISM ~밀착 신곡 회의!?~ 3화 계획, 못 쓰게 됐네]
+[title title=거짓된 REALISM ~밀착 신곡 회의?!~ 3화 계획, 못 쓰게 됐네]
 [bgm bgm=sud_bgm_adv_pop-01 clip=\{"_startTime":0.0,"_duration":38.5333333333,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_dangerous-01 clip=\{"_startTime":39.6666666667,"_duration":57.766666158,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_main-01 clip=\{"_startTime":97.9333328247,"_duration":41.4,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
