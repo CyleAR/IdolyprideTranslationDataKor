@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=dressingroom-00-noon src=env_adv_2d_dressingroom-00-noon] backgrounds=[background id=shibuya-00-noon src=env_adv_2d_shibuya-00-noon]]
 [actorgroup actors=[actor id=kan body=mdl_chr_kan-buny-00_body face=mdl_chr_kan-base-00_face hair=mdl_chr_kan-buny-00_hair] actors=[actor id=mhk body=mdl_chr_mhk-buny-00_body face=mdl_chr_mhk-base-00_face hair=mdl_chr_mhk-buny-00_hair] actors=[actor id=kor body=mdl_chr_kor-buny-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-buny-00_hair]]
-[title title=불굴의 Challenger～Roll the dice～ 5화 잭팟!]
+[title title=불굴의 Challenger~Roll the dice~ 5화 잭팟!]
 [bgm bgm=sud_bgm_adv_meeting-01 clip=\{"_startTime":0.0,"_duration":72.3682270991,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_comical-01 clip=\{"_startTime":74.3066800743,"_duration":53.96456871,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_outside-01 clip=\{"_startTime":129.3712426808,"_duration":54.6364428838,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

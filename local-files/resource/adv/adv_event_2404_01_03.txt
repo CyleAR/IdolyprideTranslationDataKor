@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=botanicalgarden-00-noon src=env_adv_2d_botanicalgarden-00-noon] backgrounds=[background id=amepark-00-noon src=env_adv_2d_amepark-00-noon] backgrounds=[background id=okinawahotel-00-noon src=env_adv_2d_okinawahotel-00-noon]]
 [actorgroup actors=[actor id=kan body=mdl_chr_kan-casl-00_body face=mdl_chr_kan-base-00_face hair=mdl_chr_kan-base-00_hair] actors=[actor id=mhk body=mdl_chr_mhk-casl-00_body face=mdl_chr_mhk-base-00_face hair=mdl_chr_mhk-base-00_hair] actors=[actor id=kor body=mdl_chr_kor-casl-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-base-00_hair]]
-[title title=불굴의 Challenger～Roll the dice～ 3화 실력으로 납작하게 밟아 버린다]
+[title title=불굴의 Challenger~Roll the dice~ 3화 실력으로 납작하게 밟아 버린다]
 [bgm bgm=sud_bgm_adv_dangerous-01 clip=\{"_startTime":0.0333333351,"_duration":28.1285466812,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_outside-01 clip=\{"_startTime":28.6618800163,"_duration":48.3705871581,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_pop-01 clip=\{"_startTime":80.0564696886,"_duration":57.1428424359,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

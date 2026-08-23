@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=casino-00-noon src=env_adv_2d_casino-00-noon] backgrounds=[background id=okinawahotel-00-noon src=env_adv_2d_okinawahotel-00-noon] backgrounds=[background id=dressingroom-00-noon src=env_adv_2d_dressingroom-00-noon]]
 [actorgroup actors=[actor id=kan body=mdl_chr_kan-casl-00_body face=mdl_chr_kan-base-00_face hair=mdl_chr_kan-base-00_hair] actors=[actor id=mhk body=mdl_chr_mhk-casl-00_body face=mdl_chr_mhk-base-00_face hair=mdl_chr_mhk-base-00_hair] actors=[actor id=kor body=mdl_chr_kor-casl-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-base-00_hair]]
-[title title=불굴의 Challenger～Roll the dice～ 4화 홍보 in 카지노]
+[title title=불굴의 Challenger~Roll the dice~ 4화 홍보 in 카지노]
 [bgm bgm=sud_bgm_adv_upper-01 clip=\{"_startTime":0.0,"_duration":59.7445631344,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_plan-01 clip=\{"_startTime":63.605967935,"_duration":77.1139122964,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_happy-01 clip=\{"_startTime":141.2198802314,"_duration":51.922488292,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

@@ -1,6 +1,6 @@
 [backgroundgroup backgrounds=[background id=livestage-00-noon src=env_adv_2d_livestage-00-noon] backgrounds=[background id=stagesleeves-00-noon src=env_adv_2d_stagesleeves-00-noon]]
 [actorgroup actors=[actor id=kan body=mdl_chr_kan-buny-00_body face=mdl_chr_kan-base-00_face hair=mdl_chr_kan-buny-00_hair] actors=[actor id=mhk body=mdl_chr_mhk-buny-00_body face=mdl_chr_mhk-base-00_face hair=mdl_chr_mhk-buny-00_hair] actors=[actor id=kor body=mdl_chr_kor-buny-00_body face=mdl_chr_kor-base-00_face hair=mdl_chr_kor-buny-00_hair]]
-[title title=불굴의 Challenger～Roll the dice～ 5화 잭팟!]
+[title title=불굴의 Challenger~Roll the dice~ 5화 잭팟!]
 [bgm bgm=sud_bgm_adv_happy-01 clip=\{"_startTime":0.0,"_duration":48.0290532746,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_thrx-01 volume=0.7 clip=\{"_startTime":48.5290532746,"_duration":28.9731486001,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":0.0,"_blendOutDuration":0.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":0.0,"_duration":0.8,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
