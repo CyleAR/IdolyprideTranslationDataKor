@@ -1,7 +1,7 @@
 [backgroundgroup backgrounds=[background id=3d_coast_evening src=env_adv_3d_coast-00-000-evening] backgrounds=[background id=3d_coast_night src=env_adv_3d_coast-00-000-night]]
 [backgroundlayoutgroup layouts=[backgroundlayout id=3d_coast_evening] captures=[backgroundcapture id=c_coast_03 setting=\{"focalLength":45.0,"nearClipPlane":0.10000000149011612,"farClipPlane":5000.0,"transform":\{"position":\{"x":17.5,"y":1.7599999904632569,"z":11.0\},"rotation":\{"x":0.0,"y":223.0,"z":0.0\},"scale":\{"x":1.0,"y":1.0,"z":1.0\}\},"dofSetting":\{"active":false,"focalPoint":4.0,"fNumber":4.0,"maxBlurSpread":3.0\}\}]]
 [actorgroup actors=[actor id=hrk body=mdl_chr_hrk-casl-00_body face=mdl_chr_hrk-base-00_face hair=mdl_chr_hrk-base-00_hair]]
-[title title=사에키 하루코 1화 솔로 캠프가 취미]
+[title title=사에키 하루코 1화 솔로 캠핑이 취미]
 [fade from=1 clip=\{"_startTime":0.0,"_duration":5.133333333333334,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [fade from=1 to=0 clip=\{"_startTime":5.133333333333334,"_duration":0.7999999999999998,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [bgm bgm=sud_bgm_adv_happy-01 clip=\{"_startTime":5.133333333333334,"_duration":25.505408197144669,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
