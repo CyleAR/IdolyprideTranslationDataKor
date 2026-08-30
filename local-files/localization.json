@@ -687,7 +687,7 @@
   "deck.paste.success": "덮어쓰기되었습니다",
   "deck.copy.confirm.title": "덮어쓰기 확인",
   "deck.copy.confirm.subtitle": "복사한 편성을 반영합니다.",
-  "deck.copy.confirm.description": "[{0}]를 [{1}](으)로 \n덮어쓰기하시겠습니까?",
+  "deck.copy.confirm.description": "[{0}]를 [{1}][으/로] \n덮어쓰기하시겠습니까?",
   "deck.delete": "삭제",
   "deck.delete.empty": "미편성 유닛은 삭제할 수 없습니다",
   "deck.delete.success": "삭제되었습니다",
