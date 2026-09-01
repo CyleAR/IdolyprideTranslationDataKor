@@ -176,7 +176,7 @@
 [bgmstop fadeTime=0.5 clip=\{"_startTime":175.0932061507,"_duration":0.5,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=…응? 전화?\n아니… 코, 코지마 선배한테서?\n이건… 받아야 하는 전화, 이려나? name={user} clip=\{"_startTime":165.9333762481,"_duration":9.6598299026,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_love_2411_08_03-koh011 actorId=koh channel=1 clip=\{"_startTime":165.9333762481,"_duration":9.0931520462,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=전화를 받는다 choices=[choice text=전화를 받지 않는다 clip=\{"_startTime":175.8000541045,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=전화를 받는다] choices=[choice text=전화를 받지 않는다] clip=\{"_startTime":175.8000541045,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=200]
 [actorlayoutgroup clip=\{"_startTime":177.0000328696,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

@@ -115,7 +115,7 @@
 [bgmstop fadeTime=0.5 clip=\{"_startTime":110.6619961977,"_duration":0.5,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=(메이가 외로워하고 있다…\n나는 어떻게 해야 할까…) name={user} clip=\{"_startTime":105.4333338976,"_duration":5.7286623001,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_love_2405_08_02-koh007 channel=1 clip=\{"_startTime":105.4333338976,"_duration":5.4286623001,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=꼭 다시 만나러 가겠다고 약속한다 choices=[choice text=헤어지자고 말한다 clip=\{"_startTime":111.3666672309,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=꼭 다시 만나러 가겠다고 약속한다] choices=[choice text=헤어지자고 말한다] clip=\{"_startTime":111.3666672309,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=202]
 [backgroundsetting id=ricefield-00-noon clip=\{"_startTime":112.5666672309,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

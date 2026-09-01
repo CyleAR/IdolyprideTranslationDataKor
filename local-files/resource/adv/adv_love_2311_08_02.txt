@@ -59,7 +59,7 @@
 [bgmstop fadeTime=0.5 clip=\{"_startTime":51.8561677296,"_duration":0.5,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=맞아. 그러니까, 벌써 대학교 3학년이고\n취업 활동 시기가 됐고…\n우리, 앞으로 어떻게 할까? name=이부키 나기사 thumbnial=img_chr_adv_ngs-00 clip=\{"_startTime":40.9666663487,"_duration":11.3895013809,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_love_2311_08_02-ngs003 actorId=ngs channel=1 clip=\{"_startTime":40.9666663487,"_duration":11.0895013809,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=관계를 계속한다 choices=[choice text=관계를 끝낸다 clip=\{"_startTime":52.5666663487,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=관계를 계속한다] choices=[choice text=관계를 끝낸다] clip=\{"_startTime":52.5666663487,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=125]
 [backgroundsetting id=tokyokissa-00-noon clip=\{"_startTime":53.7666663487,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

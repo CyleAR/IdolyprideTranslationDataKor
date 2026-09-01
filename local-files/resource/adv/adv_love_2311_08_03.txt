@@ -95,7 +95,7 @@
 [bgmstop fadeTime=0.5 clip=\{"_startTime":67.7800350665,"_duration":0.5,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=나기사… 그게… name={user} clip=\{"_startTime":65.666656494,"_duration":2.6133785725,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_love_2311_08_03-koh008 actorId=koh channel=1 clip=\{"_startTime":65.666656494,"_duration":2.3133785725,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=다시 시작하고 싶다고 전한다 choices=[choice text=아무 말도 하지 못한다 clip=\{"_startTime":68.466656494,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=다시 시작하고 싶다고 전한다] choices=[choice text=아무 말도 하지 못한다] clip=\{"_startTime":68.466656494,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=89]
 [backgroundsetting id=hillpark-00-evening clip=\{"_startTime":69.666656494,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

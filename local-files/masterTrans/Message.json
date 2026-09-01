@@ -11249,7 +11249,7 @@
     "message-event-ladder-22-0610-02|details[2].text": "지금 시즈쿠랑 의상 확인하고 있었는데",
     "message-event-ladder-22-0610-02|details[3].text": "그 이후 방송에서 선보일 기회가 많아져서 의상이 많이 닳아서",
     "message-event-ladder-22-0610-02|details[4].text": "저 혼자로는 고칠 수 없는 정도가 되고 있어요",
-    "message-event-ladder-22-0610-02|details[6].text": "서니 피스 포 유 엔드 미 의상입니다!",
+    "message-event-ladder-22-0610-02|details[6].text": "서니 피스 포 유 앤드 미 의상입니다!",
     "message-event-ladder-22-0610-02|details[7].choiceText": "몰랐어, 미안해!",
     "message-event-ladder-22-0610-02|details[7].text": "몰랐어, 미안해!",
     "message-event-ladder-22-0610-02|details[8].choiceText": "말해줘서 고마워",
@@ -56124,7 +56124,7 @@
     "message-vns-function-pvp|name": "'VENUS 배틀'",
     "message-vns-function-quest-contest|details[0].text": "'하이스코어 라이브'가 오픈되었습니다. 라이브에 도전하여 하이스코어를 경신하면 다양한 보상을 얻을 수 있습니다. 한 번 클리어한 라이브도 정기적으로 도전해서 하이스코어를 갱신해 보세요.\n\n[홈 > 라이브 > 하이스코어 라이브]",
     "message-vns-function-quest-contest|name": "'하이스코어 라이브'",
-    "message-vns-function-quest-daily|details[0].text": "'데일리 라이브'가 오픈되었습니다. 데일리 라이브에서는 각종 아이템을 많이 획득할 수 있습니다. 매일 3장의 무료 패스가 지급되니 빠짐없이 라이브를 진행해 보세요. 또한 라이브 패스는 [상점 > 마켓]에서 구입할 수도 있습니다.\n\n[홈 > 라이브 > 데일리 라이브]",
+    "message-vns-function-quest-daily|details[0].text": "'데일리 라이브'가 오픈되었습니다. 데일리 라이브에서는 각종 아이템을 많이 획득할 수 있습니다. 매일 5장의 무료 패스가 지급되니 빠짐없이 라이브를 진행해 보세요. \n\n또한 라이브 패스는 [상점 > 마켓]에서 구입할 수도 있습니다.\n[홈 > 라이브 > 데일리 라이브]",
     "message-vns-function-quest-daily|name": "'데일리 라이브'",
     "message-vns-function-quest-tower|details[0].text": "'VENUS 타워'가 오픈되었습니다. 각 스테이지를 클리어하면 푸짐한 보상을 받을 수 있습니다. 또한 '호시미편' 스토리도 해제됩니다.\n\n[홈 > 라이브 > VENUS 타워]",
     "message-vns-function-quest-tower|name": "'VENUS 타워'"

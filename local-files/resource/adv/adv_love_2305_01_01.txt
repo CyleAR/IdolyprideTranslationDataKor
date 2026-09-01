@@ -46,7 +46,7 @@
 [actorfacialmotion id=hrk motion=mot_all_chr_cmn_facial-001_in clip=\{"_startTime":40.6610683798,"_duration":0.0333333351,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actormotion id=hrk motion=mot_adv_chr_cmn_glad-005_in transition=0.5 clip=\{"_startTime":43.266666611,"_duration":1.0333333334,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=저는 아르바이트 리더인
-사에키 하루코! 17살이에요!
+사에키 하루코, 17살이에요!
 하루코 누나나 하루코 씨라고 불러주세요! name=사에키 하루코 thumbnial=img_chr_adv_hrk-00 clip=\{"_startTime":35.5610683798,"_duration":9.3055982312,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_love_2305_01_01-hrk002 actorId=hrk channel=1 clip=\{"_startTime":35.5610683798,"_duration":8.8400230408,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [actormotion id=hrk motion=mot_adv_chr_cmn_talk-012_in transition=0.5 clip=\{"_startTime":45.3333355665,"_duration":1.76666677,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
@@ -217,7 +217,7 @@
 [bgmstop fadeTime=0.5 clip=\{"_startTime":187.4802655575,"_duration":0.5,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=(그때 질문했으면 좋았을텐데…\n어떻게 해야 할까, 무슨 말을 해야 할까…?) name={user} clip=\{"_startTime":182.6305269596,"_duration":5.3497385979,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_love_2305_01_01-koh012 channel=1 clip=\{"_startTime":182.6305269596,"_duration":5.1384806633,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=변명한다 choices=[choice text=사과한다 clip=\{"_startTime":188.2810258584,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=변명한다] choices=[choice text=사과한다] clip=\{"_startTime":188.2810258584,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=22]
 [camerasetting setting=\{"focalLength":90.0,"transform":\{"position":\{"x":0.0,"y":1.2599999904632569,"z":3.9000000953674318\},"rotation":\{"x":0.0,"y":180.0,"z":0.0\},"scale":\{"x":1.0,"y":1.0,"z":1.0\}\},"dofSetting":\{"active":false,"focalPoint":4.0,"fNumber":4.0,"maxBlurSpread":3.0\}\} clip=\{"_startTime":189.4810258584,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
@@ -456,7 +456,7 @@
 [bgmstop fadeTime=0.5 clip=\{"_startTime":379.7912159322,"_duration":0.5,"_easeInDuration":0.0,"_easeOutDuration":0.5,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=(혼자서 그렇게 많은 방어를\n다 팔 수 있을 리가 없어……\n도대체 어떻게 하면……) name={user} clip=\{"_startTime":375.4964046834,"_duration":4.7948112488,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_love_2305_01_01-koh025 channel=1 clip=\{"_startTime":375.4964046834,"_duration":4.6258049011,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=이치노세 씨를 쫓아간다 choices=[choice text=이치노세 씨를 쫓아가지 않는다 clip=\{"_startTime":380.63422782,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=이치노세 씨를 쫓아간다] choices=[choice text=이치노세 씨를 쫓아가지 않는다] clip=\{"_startTime":380.63422782,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=67]
 [camerasetting setting=\{"focalLength":90.0,"transform":\{"position":\{"x":0.014607489109039307,"y":1.2599999904632569,"z":3.9000000953674318\},"rotation":\{"x":0.0,"y":180.0,"z":0.0\},"scale":\{"x":1.0,"y":1.0,"z":1.0\}\},"dofSetting":\{"active":false,"focalPoint":4.0,"fNumber":4.0,"maxBlurSpread":3.0\}\} clip=\{"_startTime":381.83422782,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
